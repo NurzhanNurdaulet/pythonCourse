@@ -1,0 +1,1 @@
+print("Bul Nurdaulettin computeri")
